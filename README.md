@@ -16,15 +16,7 @@
 
 - **布鲁斯（Blues）的聆听者**：我尤其喜欢听 布鲁斯音乐 。它被公认为众多现代流行音乐的源头之一，以其独特的律动和真挚的情感表达深深吸引着我。这种音乐风格里蕴含的质朴力量和故事感，常常能让我产生共鸣，为我带来慰藉和力量。
 
-### ✨ 建站初衷
 
-创建这个博客，是希望为这些零散的爱好和思绪找一个“家”。它是我的一张数字名片，也是一个与志同道合者交流的窗口。
-
-我希望能在这里记录成长，分享见解，也期待能通过网络，结识更多有趣的朋友。
-
-我的座右铭是：“极致源于热爱，热爱能克服一切困难。”
-
-我希望在这里，通过每一张照片、每一段文字，与你分享那份因热爱而生的坚持与快乐。
 
 ### 🌟 期待相遇
 
@@ -68,5 +60,6 @@ A responsive weather dashboard displaying current and forecasted weather data. B
 - [GitHub](https://github.com/Joe-Mu-Yu)
 - [LinkedIn](https://linkedin.com/in/joe-mu-yu)
 - [Twitter](https://twitter.com/joe_mu_yu)
+
 
 <sub>Last updated: 2025-12-19</sub>
