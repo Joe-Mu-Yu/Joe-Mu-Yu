@@ -19,15 +19,6 @@
 
     - **布鲁斯（Blues）的聆听者**：我尤其喜欢听 布鲁斯音乐 。它被公认为众多现代流行音乐的源头之一，以其独特的律动和真挚的情感表达深深吸引着我。这种音乐风格里蕴含的质朴力量和故事感，常常能让我产生共鸣，为我带来慰藉和力量。
 
-    ### ✨ 建站初衷
-
-    创建这个博客，是希望为这些零散的爱好和思绪找一个“家”。它是我的一张数字名片，也是一个与志同道合者交流的窗口。
-
-    我希望能在这里记录成长，分享见解，也期待能通过网络，结识更多有趣的朋友。
-
-    我的座右铭是：“极致源于热爱，热爱能克服一切困难。”
-
-    我希望在这里，通过每一张照片、每一段文字，与你分享那份因热爱而生的坚持与快乐。
 
     ### 🌟 期待相遇
 
@@ -42,54 +33,31 @@
 
     <div style="display: flex; flex-direction: column; gap: 16px; margin: 16px 0;">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Joe-Mu-Yu&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 100%; max-width: 450px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Joe-Mu-Yu&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" style="width: 100%; max-width: 450px;" />
       </div>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Mu-Yu&layout=compact&theme=default&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 350px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Mu-Yu&layout=compact&theme=default&hide_border=true&cache_seconds=3600" alt="Top Languages" style="width: 100%; max-width: 350px;" />
       </div>
     </div>
 
     ## Tech Stack
 
-    I work primarily with:
+    I'm currently learning and working with:
 
-    - **Languages**: JavaScript, Python, TypeScript, HTML5, CSS3
-    - **Frontend**: React, Vite, Next.js, TailwindCSS
-    - **Backend**: Node.js, Express, Prisma
-    - **Tools**: Git, GitHub, Docker, AWS, VS Code
+    - **Languages**: JavaScript, Python, HTML5, CSS3
+    - **Tools**: Git, GitHub
   </div>
 </div>
 
-## Featured Projects
+## Projects & Learning
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin: 24px 0;">
-  <div>
-    ### E-Commerce Platform
-    A full-stack e-commerce application built with React, Node.js, and MongoDB. Features include product management, shopping cart, user authentication, and payment integration with responsive design.
-  </div>
-  
-  <div>
-    ### Task Management App
-    A modern task management application with real-time updates. Built with Next.js, Prisma, and WebSocket. Features include task boards, deadlines, and team collaboration.
-  </div>
-  
-  <div>
-    ### Weather Dashboard
-    A responsive weather dashboard displaying current and forecasted weather data. Built with React and OpenWeatherMap API. Features include geolocation, search functionality, and beautiful visualizations.
-  </div>
-</div>
+I'm currently working on various learning projects and exploring new technologies. Stay tuned for updates!
 
 ## Connect
 
 <div style="display: flex; gap: 16px; margin: 16px 0;">
   <a href="https://github.com/Joe-Mu-Yu" target="_blank" style="text-decoration: none; color: #0066CC;">
     GitHub
-  </a>
-  <a href="https://linkedin.com/in/joe-mu-yu" target="_blank" style="text-decoration: none; color: #0066CC;">
-    LinkedIn
-  </a>
-  <a href="https://twitter.com/joe_mu_yu" target="_blank" style="text-decoration: none; color: #0066CC;">
-    Twitter
   </a>
 </div>
 
