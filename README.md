@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px; margin: 24px 0;">
   <!-- Left Column: About Me -->
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 300px; word-wrap: break-word; overflow-wrap: break-word;">
     ## About Me
 
     👋 大家好，我是 HEBUST 的一名在读学生，生活和学习在充满活力的河北科技大学。欢迎来到我的个人小窝，这里记录着我的思考、观察与热爱。很高兴能在这里与你相遇，并分享我的世界。
@@ -28,7 +28,7 @@
   </div>
 
   <!-- Right Column: GitHub Stats & Tech Stack -->
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 300px; word-wrap: break-word; overflow-wrap: break-word;">
     ## GitHub Stats
 
     <div style="display: flex; flex-direction: column; gap: 16px; margin: 16px 0;">
