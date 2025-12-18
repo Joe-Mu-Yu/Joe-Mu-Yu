@@ -91,4 +91,5 @@ A responsive weather dashboard displaying current and forecasted weather data. B
 
 ---
 
+
 <sub>Last updated: 2025-12-19</sub>
