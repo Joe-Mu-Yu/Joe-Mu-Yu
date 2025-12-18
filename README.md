@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+你好吗+%F0%9F%91%8B;我是Joe+Mu+Yu+%F0%9F%98%B8" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+你好吗+%F0%9F%91%8B;我是Joe+Mu+Yu+%F0%9F%98%B8" alt="Typing SVG" /></a>
 </h3>
 
 <h3 align="center">如果说世界上只有一种真正的英雄主义，那一定是看清生活的真相后依然热爱生活。</h3>
@@ -207,4 +207,5 @@
 <p align="center">
    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
+
 <!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
